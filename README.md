@@ -327,3 +327,14 @@ Anyway all of these steps can be automated with a tool that can be found here:
 [AndroidEmbedIT](github.com/yoda66/AndroidEmbedIT)
 
 
+## Other tools
+
+MobSF, automated apk,ipa pentest and analysis
+Frida
+Android Tamer (android platform)
+
+
+[Fun with Frida on Mobile](https://www.youtube.com/watch?v=dqA38-1UMxI)
+[Demistifying Frida](https://www.youtube.com/watch?v=kd05JjCqViY)
+
+
