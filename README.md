@@ -329,6 +329,7 @@ Anyway all of these steps can be automated with a tool that can be found here:
 
 ## Other tools
 
+jadx
 MobSF, automated apk,ipa pentest and analysis
 Frida
 Android Tamer (android platform)
